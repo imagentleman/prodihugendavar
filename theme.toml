@@ -1,8 +1,0 @@
-name = "prodihugendavar"
-license = "MIT"
-
-Paginate = 10
-
-[taxonomies]
-author = "authors"
-tag = "tags"
