@@ -225,7 +225,7 @@
 
   var submit = function(e) {
     if (e.keyCode === 13) {
-      window.location.href = '/blog/tags/' + e.target.value;
+      window.location.href = '{{ .Site.BaseURL }}/tags/' + e.target.value;
     }
   };
 
