@@ -1,6 +1,8 @@
 # prodihugendavar
 A minimally minimal theme for the Hugo static generator
 
+![Screenshot](http://imagentleman.github.io/prodihugendavar-screenshot.png)
+
 ## Demo
 https://imagentleman.github.io/prodihugendavar
 
